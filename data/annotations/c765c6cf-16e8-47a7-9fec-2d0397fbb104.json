@@ -1,5 +1,278 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "uuid": "2a516c79-8d6c-4d47-9a3b-aec38de233b6",
+      "start_time": 0.05,
+      "end_time": 48.234,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown speaker 1"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2e3bbb43-76c2-44a3-8b35-acdb89535e89",
+      "start_time": 67.475,
+      "end_time": 138.129,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wendell Otley"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7eed7f90-4072-4c2e-99a9-447d06ed3211",
+      "start_time": 158.679,
+      "end_time": 201.265,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yafet Brinson"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ced1270f-c187-453d-8ee4-a86dbb9ac722",
+      "start_time": 225.68,
+      "end_time": 429.019,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "D. J. Renegade"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c752f95c-aa57-404b-8ac8-283e13a17d98",
+      "start_time": 451.55,
+      "end_time": 517.66,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ta-Nehisi Coates"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "58dd53cb-afec-4810-8c0b-18738695b343",
+      "start_time": 537.5,
+      "end_time": 546.87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dorothy Marie Rice"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ead294bb-0301-42c7-ab54-e57be3dc1efc",
+      "start_time": 651.71,
+      "end_time": 1012.174,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Michael L. L. Collins"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0a9f47fe-930c-41b7-bfca-bdaf9be5ba54",
+      "start_time": 1030.515,
+      "end_time": 1173.56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Toni Blackman"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "64bf2cc5-0ae9-4ac9-ac80-7da6c1791d33",
+      "start_time": 1188.54,
+      "end_time": 1282.254,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jonathan Gray"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "db90e604-bc7d-483b-b437-04ed3007c88e",
+      "start_time": 1293.075,
+      "end_time": 1726.58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kwame Alexander"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "24c5f890-c166-4efc-b4aa-6b6b890f9f25",
+      "start_time": 1761.545,
+      "end_time": 2041.184,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nehassaiu deGannes"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ce15ede0-9044-4eb5-8148-19eb86dafdf9",
+      "start_time": 2063.05,
+      "end_time": 2248.889,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Erica Jackson"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "18a461c3-2ba8-4928-8942-a01341623a2c",
+      "start_time": 2269.279,
+      "end_time": 2387.965,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tyepha Walden"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5131bf4c-956d-4a60-bc9a-fcb2e7e09c9b",
+      "start_time": 2396.485,
+      "end_time": 2462.45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nikea Green"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2476d147-19be-403d-9c5a-82f1d117a6f5",
+      "start_time": 2471.65,
+      "end_time": 2561.097,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Patricia Johnson"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e7a1b42f-7b27-4170-9b0c-240715a15afc",
+      "start_time": 2582.2,
+      "end_time": 2805.819,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Monifa A. Love"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9606208d-9ae0-42d0-a2b4-a813ef2ceaa0",
+      "start_time": 2805.82,
+      "end_time": 3031.366,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tim Wells"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ],
   "event_id": "b6e6076c-8faa-40ba-ad9a-f964b279cc5b",
   "set": "Index",
   "source_id": "1b74115d-a85c-409e-bde8-57fd5fa53cd4"
